@@ -1,0 +1,266 @@
+{
+    "type": "PlacesVisited",
+    "locations": [
+        {
+            "text": "BBI",
+            "size": 0.5,
+            "country": "India",
+            "city": "Bhubaneswar",
+            "lat": "20.2961",
+            "lng": "85.8245",
+            "desc": "Home ❤️"
+        },
+        {
+            "text": "PUR",
+            "size": 0.1,
+            "country": "India",
+            "city": "Puri",
+            "lat": "19.8134",
+            "lng": "85.8315",
+            "desc": "Go-to place for a weekend getaway. This city belongs to Lord Jagannath. *Kalia*, beaches, mountains, and forests keep me alive; and I get two of them here. Mu ultimate place of rest."
+        },
+        {
+            "text": "KOL",
+            "size": 0.4,
+            "country": "India",
+            "city": "Kolkata",
+            "lat": "22.5726",
+            "lng": "88.3639",
+            "desc": "Dad got transferred here in 2004. I was 4 years old. I don't remember much of it. I remember the house we lived in, the park, the school, and the friends I made. Kol was my first home away from home. It was the first flash of a metro life, a fast and busy life. I loved it here."
+        },
+        {
+            "text": "JSR",
+            "size": 0.4,
+            "country": "India",
+            "city": "Jamshedpur",
+            "lat": "22.8000",
+            "lng": "86.1833",
+            "desc": "We came here from Jajpur in 2011. JSR has been the place of ultimate growth for me, both physically and emotionally. I stayed here for 5 years, during high school and lived my whole school life here. I made some of the best friends here. I became what I am here. Love this place."
+        },
+        {
+            "text": "HYD",
+            "size": 0.4,
+            "country": "India",
+            "city": "Hyderabad",
+            "lat": "17.3753",
+            "lng": "78.4744",
+            "desc": "Lived here from 2016- 2018. We came here since Dad wanted me to prepare for JEE and he got us transferred from JSR. While the place is nice and lovely, I felt mostly lonely here. Made some best friends here. Started binge-watching TV shows here. I was 16 when I came here."
+        },
+        {
+            "text": "CHD",
+            "size": 0.4,
+            "country": "India",
+            "city": "Chandigarh",
+            "lat": "30.7333",
+            "lng": "76.7794",
+            "desc": "After 2018, not being able to get into IIT, I initially came here alone to study at Allen Career Institute. Later on, my mom came with me. The city is structured, disciplined, and organized, unlike other Indian cities."
+        },
+        {
+            "text": "BLR",
+            "size": 0.4,
+            "country": "India",
+            "city": "Bangalore",
+            "lat": "12.9716",
+            "lng": "77.5946",
+            "desc": "Lived and wrokerd here from 2018- 2020, and 2023-2024.The weather is amazing."
+        },
+        {
+            "text": "SML",
+            "size": 0.4,
+            "country": "India",
+            "city": "Shimla",
+            "lat": "31.1048",
+            "lng": "77.1734",
+            "desc": "Visited here in 2019 while living in Chandigarh. The city is beautiful. I love mountains and the city is surrounded by them. I remember the mall road, the church, and the toy train. I was 18."
+        },
+        {
+            "text": "DEL",
+            "size": 0.4,
+            "country": "India",
+            "city": "New Delhi",
+            "lat": "28.6139",
+            "lng": "77.2090",
+            "desc": "The heart of the country. I have visited here tons of times. I love the city. I love the history, the culture, the food, and the people. I love the old city, the narrow lanes, the old buildings, and the stories they tell. I love the new city, the fast life, the metro, and the malls. The pollution is a problem though. I wouldn't stay here, but I love to visit Delhi from time to time and explore it."
+        },
+        {
+            "text": "GOA",
+            "size": 0.4,
+            "country": "India",
+            "city": "Goa",
+            "lat": "15.2993",
+            "lng": "74.1240",
+            "desc": "The ultimate boys trip with my boi Abinash. Awesome get out. Visited in lockdown and had a ton of fun for 3- 4 days"
+        },
+        {
+            "text": "GTG",
+            "size": 0.4,
+            "country": "India",
+            "city": "Gangtok",
+            "lat": "27.3333",
+            "lng": "88.6167",
+            "desc": "Visited here with my uncle, parents, and family friends.I was 8-9 years old."
+        },
+        {
+            "text": "DRL",
+            "size": 0.4,
+            "country": "India",
+            "city": "Darjeeling",
+            "lat": "27.0360",
+            "lng": "88.2627",
+            "desc": "Visited here with my uncle, parents, and family friends. We visited Darjeeling, Gangtok, and Kalimpong. The trip was amazing. I love mountains and I remember a guide showing us Tiger Hill, the highest point in Darjeeling."
+        },
+        {
+            "text": "JMU",
+            "size": 0.4,
+            "country": "India",
+            "city": "Jammu",
+            "lat": "32.7333",
+            "lng": "74.8500",
+            "desc": "A classic childhood trip with parents, family and family friends. We visited Vaishno Devi temple, a sacred Hindu temple dedicated to the Hindu Goddess, located in Katra at the Trikuta Mountains within Jammu and Kashmir. The temple is at an altitude of 5200 ft and a distance of approximately 12 km from Katra. I saw and sat on helicopters for the first time. I was 10."
+        },
+        {
+            "text": "PUD",
+            "size": 0.4,
+            "country": "India",
+            "city": "Pudducherry",
+            "lat": "11.9333",
+            "lng": "79.8333",
+            "desc": "Visited here when I was small. The French colony is beautiful. The beaches are amazing. Recently, I visited here with Abinash. The city is calm and peaceful, albiet a little dirty."
+        },
+        {
+            "text": "OOTY",
+            "size": 0.4,
+            "country": "India",
+            "city": "Ooty",
+            "lat": "11.4067",
+            "lng": "76.6936",
+            "desc": "Earliest memory of a trip with Mom and Dad. Sneha wasn't there to bother us :D and we chilled in peace. I was 4-5 years old. I don't remember most of it. All I remember is the cold and the fog."
+        },
+        {
+            "text": "AGR",
+            "size": 0.4,
+            "country": "India",
+            "city": "Agra",
+            "lat": "27.1767",
+            "lng": "78.0081",
+            "desc": " Part of the Jammu trip. A classic childhood trip with parents, family and family friends. I love old cities, the magic, the history and the charisma mesmerizes me. There are stories imprinted everywhere in old cities like Agra, and Delhi. Loved it here."
+        },
+        {
+            "text": "KSH",
+            "size": 0.4,
+            "country": "India",
+            "city": "Kashmir",
+            "lat": "34.0837",
+            "lng": "74.7973",
+            "desc": "A classic autumn break with my family. Jannat agar kahi hai toh yahi hai."
+        },
+        {
+            "text": "DXB",
+            "size": 0.4,
+            "country": "United Arab Emirates",
+            "city": "Dubai",
+            "lat": "25.276987",
+            "lng": "55.296249",
+            "desc": "My first international trip and Smruti brought me here. Dubai is so calm, clean and beautiful. I loved the city and would be visiting again."
+        },
+        {
+            "text": "HRD",
+            "size": 0.4,
+            "country": "India",
+            "city": "Haridwar",
+            "lat": "29.9457",
+            "lng": "78.1642",
+            "desc": "Part of the Kedarnath trip. Visited here for a day. The Ganga Aarti was amazing. It made me so calm and peaceful. If I had one wish, I would spend it living near the Ganga ghat."
+        },
+        {
+            "text": "KED",
+            "size": 0.4,
+            "country": "India",
+            "city": "Kedarnath",
+            "lat": "30.7342",
+            "lng": "79.0661",
+            "desc": "My ultimate ZNMD trip with my best mates from high school. Trekked, partied, chilled and had a ton of fun. The trek was amazing and the view from the top was breathtaking. It is an extremely important and pious Hindu pilgrimage site. Booking tickets for my parents right now! :p"
+        },
+        {
+            "text": "MUM",
+            "size": 0.4,
+            "country": "India",
+            "city": "Mumbai",
+            "lat": "19.0760",
+            "lng": "72.8777",
+            "desc": "One of the best trips I had with Abinash and Smruti. We couldn't crack IIT, but got to visit Mood Indigo IIT Bombay xD, one of the best fests in India. We partied a lot! I got to know a lot about myself here."
+        },
+        {
+            "text": "GKR",
+            "size": 0.3,
+            "country": "India",
+            "city": "Gokarna",
+            "lat": "14.5479",
+            "lng": "74.3184",
+            "desc": "The ultimate StackIt trip. The trip was amazing. The beaches were absolutely  clean and beatuiful."
+        },
+        {
+            "text": "MLR",
+            "size": 0.3,
+            "country": "India",
+            "city": "Mangalore",
+            "lat": "12.9141",
+            "lng": "74.8560",
+            "desc": "An escape from reality. Visited here with Abinash, the true partner in trips. This trip was an interlude, a thought back to the past, a break from whatever was happening."
+        },
+        {
+            "text": "AHM",
+            "size": 0.4,
+            "country": "India",
+            "city": "Ahemdabad",
+            "lat": "23.0225",
+            "lng": "72.5714",
+            "desc": "Visited here with my family. The city is beautiful. I was here because Sneha had a test here. The city is clean and organized."
+        },
+        {
+            "text": "DWK",
+            "size": 0.4,
+            "country": "India",
+            "city": "Dwarka",
+            "lat": "22.2394",
+            "lng": "68.9678",
+            "desc": "The holy city. This was a part of the Gujarat trip. The coty, the people, and I, belong to the one and only Krishna, the creator of the universe."
+        },
+        {
+            "text": "RMS",
+            "size": 0.4,
+            "country": "India",
+            "city": "Rameshwaram",
+            "lat": "9.2876",
+            "lng": "79.3129",
+            "desc": "The holy city. This was a part of the Tamil Nadu trip. The city is beautiful. The beaches are amazing. The city is calm and peaceful."
+        },
+        {
+            "text": "MAD",
+            "size": 0.4,
+            "country": "India",
+            "city": "Madurai",
+            "lat": "10.9273",
+            "lng": "78.2769",
+            "desc": "Visited here with my family. The old Meenakshi temple is beautiful. Part of the Tamil Nadu trip."
+        },
+        {
+            "text": "NYC",
+            "size": 0.5,
+            "country": "USA",
+            "city": "New York City",
+            "lat": "40.6446",
+            "lng": "-73.7797",
+            "desc": "New Home ❤️"
+        },
+        {
+            "text": "LHR",
+            "size": 0.1,
+            "country": "UK",
+            "city": "London",
+            "lat": "51.5074",
+            "lng": "-0.1278",
+            "desc": "Heathrow Airport"
+        }
+    ]
+}

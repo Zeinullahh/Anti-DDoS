@@ -1,0 +1,19 @@
+{
+    "type": "FlightsCollection",
+    "flights": [
+        {
+            "type": "flight",
+            "order": 1,
+            "from": "IGI",
+            "to": "JFK",
+            "flightCode": "AI",
+            "date": "January 27, 2025",
+            "status": true,
+            "startLat": 28.5562,
+            "startLng": 77.1000,
+            "endLat": 40.6413,
+            "endLng": -73.7781,
+            "arcAlt": 0.3
+        }
+    ]
+}
